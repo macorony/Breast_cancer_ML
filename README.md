@@ -78,19 +78,6 @@ Machine_Learning_Basics/
     ```bash
     git clone git@github.com:your-username/Machine_Learning_Basics.git
     cd Machine_Learning_Basics
-    ```
-2.  **Create a Virtual Environment (Recommended):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate   # On macOS/Linux
-    venv\Scripts\activate   # On Windows
-    ```
-3.  **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-    *(If you don't have `requirements.txt` you can install required packages with the command `pip install numpy pandas scikit-learn matplotlib`)*
 
 ## 6. Usage
 

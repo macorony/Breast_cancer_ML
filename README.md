@@ -15,7 +15,7 @@ This repository contains implementations of several basic machine learning model
 
 ## 1. Project Overview
 
-This project provides practical implementations of various basic machine learning models for binary classification. It utilizes the well-known Wisconsin Breast Cancer dataset to demonstrate core machine learning concepts such as data loading, preprocessing, model selection, training, hyperparameter tuning, and evaluation. The primary goal is to create an educational resource that is easy to understand, follow, and reproduce.
+This project provides practical implementations of various basic machine learning models for binary classification. It utilizes the well-known Wisconsin Breast Cancer dataset to demonstrate core machine learning concepts such as data loading, preprocessing, model selection, training, hyperparameter tuning, and evaluation.
 
 ## 2. Dataset
 

@@ -42,8 +42,6 @@ The following machine learning models are implemented in this repository:
 
 ``````
 Machine_Learning_Basics/
-├── data/
-│ └── # Store data or script to download
 ├── models/
 │ ├── logistic_regression.py
 │ ├── knn.py
@@ -51,7 +49,6 @@ Machine_Learning_Basics/
 │ ├── svm.py
 │ ├── naive_bayes.py
 │ ├── random_forest.py
-│ ├── gradient_boosting.py
 │ └── ...
 ├── utils/
 │ ├── data_utils.py
@@ -61,15 +58,13 @@ Machine_Learning_Basics/
 ├── notebooks/ (Optional)
 │ └── exploratory_analysis.ipynb
 ├── README.md
-├── requirements.txt
 └── config.json (Optional)
 ``````
-*   **`data/`:** Contains the dataset or scripts for downloading and loading data.
+
 *   **`models/`:** Contains the Python scripts for each machine learning model.
 *   **`utils/`:** Contains utility functions for data loading, preprocessing, evaluation, visualization, experiment tracking, etc.
 *    **`notebooks/`:** (Optional) Contains any jupyter notebooks created for exploratory analysis, visualization, or code testing.
 *   **`README.md`:** This file.
-*   **`requirements.txt`:** A list of all Python package dependencies.
 *   **`config.json`:** (Optional) A configuration file for managing hyperparameters and model choices
 
 ## 5. Setup
